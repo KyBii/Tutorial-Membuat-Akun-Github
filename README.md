@@ -8,12 +8,10 @@ Silahkan isi kolom yang tersedia pada gambar dengan email yang kamu gunakan kemu
  
  Selanjutnya anda akan diarahkan kehalaman lanjut pendaftaran untuk mengisi password dan username,
  > untuk username usahakan menggunakan yang unik atau belum terpakai oleh orang lain, jika sudah silahkan continue
- 
- ![1634898240628](https://user-images.githubusercontent.com/92983457/138474197-b9336771-05a2-415d-8e59-16b17b3d17df.jpg)
- 
- selanjutnya anda akan ditanya apakah ingin menerima info terbaru tentang github melalui email ketik 
+ dan selanjutnya anda akan ditanya apakah ingin menerima info terbaru tentang github melalui email ketik 
  **y** untuk setuju atau **n** untuk tidak setuju. Setelah itu silahkan continue
-![1634898346970](https://user-images.githubusercontent.com/92983457/138480242-522a5ebf-7bcb-4878-8a60-24d0d637941f.jpg)
+ 
+ ![WhatsApp Image 2021-10-23 at 01 27 54](https://user-images.githubusercontent.com/93004722/138499052-71a9c5af-538c-432e-afea-78b4e6bb7409.jpeg)
 
 Kemudian anda akan diminta untuk menyelesaikan sebuah captcha atau puzzle, untuk membuktikan bahwa anda adalah manusia, bukan program mencurigakan
 ![1634898405076](https://user-images.githubusercontent.com/92983457/138480914-e94d2e59-4c73-4b79-892f-9ad16e52555f.jpg)
@@ -21,7 +19,7 @@ Kemudian anda akan diminta untuk menyelesaikan sebuah captcha atau puzzle, untuk
 Setelah berhasil menyelesaikan captcha github akan memintakode konfirmasi yang dikirim github ke email yang sudah anda
 masukkan ditahap pertama tadi
 
-![1634898487039](https://user-images.githubusercontent.com/92983457/138481398-ae2e277f-97f9-4942-8b31-549bd2cfe43d.jpg)
+![WhatsApp Image 2021-10-23 at 01 29 11](https://user-images.githubusercontent.com/93004722/138499066-ce50be29-7f05-4ab3-88a2-4fc7a480e219.jpeg)
 
 Cek apakah anda menerima email dari github, tidak ada di kontak masuk coba cek folder spam pada layanan email anda contoh emailnya seperti ini
 
@@ -39,10 +37,6 @@ Selanjutnya anda akan diminta untuk mengisi data dan minat anda menggunakan gith
 jika semua tahapan sudah selesai maka akan tampil dashboard github seperti di gambar
 buat repository pertama anda dengan settingan public dan centang **add a readme.md file** jika diperlukan 
 
-![1634898855129](https://user-images.githubusercontent.com/92983457/138484779-d6552b3d-6bca-45c3-8317-75565f60fe33.jpg)
+![WhatsApp Image 2021-10-23 at 01 30 54](https://user-images.githubusercontent.com/93004722/138499082-9ca70f6e-1c63-4b89-8fef-9f8c4cea0e0a.jpeg)
 
 dengan demikian anda sudah selesai membuat akun github
-
-## Bonus
-Tampilan profile github dengan username sebagai nama repository
-![1634898982931](https://user-images.githubusercontent.com/92983457/138485628-2705710f-d056-48c0-b4f9-93e3d52f2777.jpg)
