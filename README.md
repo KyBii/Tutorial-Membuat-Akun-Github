@@ -23,12 +23,9 @@ masukkan ditahap pertama tadi
 
 Cek apakah anda menerima email dari github, tidak ada di kontak masuk coba cek folder spam pada layanan email anda contoh emailnya seperti ini
 
-![1634898563998](https://user-images.githubusercontent.com/92983457/138482061-3e425457-ba61-4de9-935d-17ce941a6ae3.jpg)
-
 pastekan kode yang ada dalam email tersebut ke github anda
 
-![1634898596209](https://user-images.githubusercontent.com/92983457/138484303-8594bfb0-460b-497b-81b5-7ed3d72a6900.jpg)
-
+![WhatsApp Image 2021-10-23 at 16 59 17](https://user-images.githubusercontent.com/93004722/138550142-3d95f504-5365-4912-bc03-8cea2f15659b.jpeg)
 
 Selanjutnya anda akan diminta untuk mengisi data dan minat anda menggunakan github, silahkan disesuaikan
 
